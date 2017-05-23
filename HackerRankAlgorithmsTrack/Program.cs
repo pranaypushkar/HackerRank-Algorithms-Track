@@ -9,8 +9,12 @@ namespace HackerRankAlgorithmsTrack
         {
             try
             {
-                PlusMinus obj = new PlusMinus();
-                obj.PlusMinusMethod();
+                //PlusMinus obj = new PlusMinus();
+                //obj.PlusMinusMethod();
+
+                SolveMeFirst obj = new SolveMeFirst();
+                obj.SolveMeFirstMethod();
+                
             }
             catch (Exception ex)
             {
